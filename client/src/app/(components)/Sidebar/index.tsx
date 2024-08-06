@@ -23,7 +23,7 @@ const Sidebar = () => {
 
       {/* FOOTER */}
       <div>
-        <p className="text-center text-xs text-gray-500">&Copy; Copyright</p>
+        <p className="text-center text-xs text-gray-500"> Copyright</p>
       </div>
     </div>
   );
